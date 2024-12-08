@@ -1,0 +1,10 @@
+{
+    "000001": {
+        "имя": "name",
+        "info": "info",
+        "date": "date",
+        "time": "time",
+        "contact_methods": "contact_methods",
+        "additional_information": "additional_information"
+    }
+}
